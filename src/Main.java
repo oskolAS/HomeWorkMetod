@@ -43,7 +43,7 @@ public class Main {
         } else System.out.println("Вы живёте в Будующем?");
     }
 
-// Задание 3
+// Задание 3.
    public static int deliveryDays(int kilometers) {
        int distance = kilometers;
        int standardDistance = 20;
